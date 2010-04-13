@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt-get install \
-	vim-gnome \
+	vim-gnome vim-doc \
 	vim-vimoutliner \
-	gitk \
+	git-core git-svn git-doc gitk \
 	remind
