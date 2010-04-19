@@ -10,4 +10,5 @@ cd git-1.7.0.4
 make configure
 ./configure --prefix="$HOME" NO_CURL=1
 make
+rm -vf ~/bin/git-*
 make install
