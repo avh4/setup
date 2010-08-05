@@ -30,3 +30,5 @@ sudo apt-get install \
 
 git config --global --add merge.conflictstyle diff3
 git config --global --add color.ui auto
+
+google-chrome `cat chrome_plugins.txt`
