@@ -16,9 +16,11 @@ function install_key {
 }
 
 install_key Google A040830F7FAC5991
+install_key Virtualbox 54422A4B98AB5139
 
 sudo apt-get update
 
 sudo apt-get install \
-	google-chrome-stable
+	google-chrome-stable \
+	virtualbox-3.2
 

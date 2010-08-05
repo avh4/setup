@@ -1,3 +1,6 @@
 # Chrome
 deb http://dl.google.com/linux/deb/ stable main
 
+# Virtualbox
+deb http://download.virtualbox.org/virtualbox/debian lucid non-free
+
