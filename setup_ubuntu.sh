@@ -6,6 +6,8 @@ sudo apt-get install \
 	git-core git-svn git-doc gitk \
 	remind
 
+vim-addons install vimoutliner
+
 SOURCES=/etc/apt/sources.list.d/avh4.list
 sudo cp avh4.list /etc/apt/sources.list.d/
 
